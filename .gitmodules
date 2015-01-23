@@ -28,3 +28,33 @@
 [submodule "InertialNav"]
 	path = InertialNav
 	url = https://github.com/priseborough/InertialNav.git
+[submodule "clearpath-serial"]
+	path = clearpath-serial
+	url = https://github.com/clearpathrobotics/serial.git
+[submodule "nasa-eefs"]
+	path = nasa-eefs
+	url = https://github.com/nasa/eefs.git
+[submodule "libemb"]
+	path = libemb
+	url = https://github.com/wendlers/libemb.git
+[submodule "linux-i2c"]
+	path = linux-i2c
+	url = https://github.com/jwr/lsquaredc.git
+[submodule "linux-i2c-lsqaredc"]
+	path = linux-i2c-lsqaredc
+	url = https://github.com/jwr/lsquaredc.git
+[submodule "atom"]
+	path = atom
+	url = https://github.com/tomahawkins/atom.git
+[submodule "improve"]
+	path = improve
+	url = https://github.com/tomahawkins/improve.git
+[submodule "ecu"]
+	path = ecu
+	url = https://github.com/tomahawkins/ecu.git
+[submodule "minlibc"]
+	path = minlibc
+	url = https://github.com/GaloisInc/minlibc.git
+[submodule "ivory-rtverification"]
+	path = ivory-rtverification
+	url = https://github.com/GaloisInc/ivory-rtverification.git
