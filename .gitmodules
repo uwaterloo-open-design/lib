@@ -1,0 +1,30 @@
+[submodule "ivory"]
+	path = ivory
+	url = https://github.com/GaloisInc/ivory
+[submodule "ivory-tower-stm32"]
+	path = ivory-tower-stm32
+	url = https://github.com/GaloisInc/ivory-tower-stm32
+[submodule "tower"]
+	path = tower
+	url = https://github.com/GaloisInc/tower.git
+[submodule "mavlink"]
+	path = mavlink
+	url = https://github.com/mavlink/mavlink.git
+[submodule "estimator"]
+	path = estimator
+	url = https://github.com/GaloisInc/estimator.git
+[submodule "Copilot"]
+	path = Copilot
+	url = https://github.com/GaloisInc/Copilot
+[submodule "tomsfastmath"]
+	path = tomsfastmath
+	url = https://github.com/libtom/tomsfastmath.git
+[submodule "libtomcrypt"]
+	path = libtomcrypt
+	url = https://github.com/libtom/libtomcrypt.git
+[submodule "libtommath"]
+	path = libtommath
+	url = https://github.com/libtom/libtommath.git
+[submodule "InertialNav"]
+	path = InertialNav
+	url = https://github.com/priseborough/InertialNav.git
