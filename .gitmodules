@@ -58,3 +58,18 @@
 [submodule "ivory-rtverification"]
 	path = ivory-rtverification
 	url = https://github.com/GaloisInc/ivory-rtverification.git
+[submodule "zeromq4-x"]
+	path = zeromq4-x
+	url = https://github.com/zeromq/zeromq4-x.git
+[submodule "zeromq/zeromq4-x"]
+	path = zeromq/zeromq4-x
+	url = https://github.com/zeromq/zeromq4-x.git
+[submodule "zeromq/czmq"]
+	path = zeromq/czmq
+	url = https://github.com/zeromq/czmq.git
+[submodule "zeromq/pyzmq"]
+	path = zeromq/pyzmq
+	url = https://github.com/zeromq/pyzmq.git
+[submodule "zeromq/zeromq-haskell"]
+	path = zeromq/zeromq-haskell
+	url = https://github.com/twittner/zeromq-haskell.git
