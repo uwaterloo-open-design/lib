@@ -73,3 +73,6 @@
 [submodule "zeromq/zeromq-haskell"]
 	path = zeromq/zeromq-haskell
 	url = https://github.com/twittner/zeromq-haskell.git
+[submodule "atmosphere"]
+	path = atmosphere
+	url = https://github.com/ghorn/atmosphere
