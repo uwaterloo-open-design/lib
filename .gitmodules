@@ -1,62 +1,62 @@
 [submodule "ivory"]
-	path = ivory
+	path = haskell/ivory
 	url = https://github.com/GaloisInc/ivory
 [submodule "ivory-tower-stm32"]
 	path = ivory-tower-stm32
 	url = https://github.com/GaloisInc/ivory-tower-stm32
 [submodule "tower"]
-	path = tower
+	path = haskell/tower
 	url = https://github.com/GaloisInc/tower.git
 [submodule "mavlink"]
 	path = mavlink
 	url = https://github.com/mavlink/mavlink.git
 [submodule "estimator"]
-	path = estimator
+	path = haskell/estimator
 	url = https://github.com/GaloisInc/estimator.git
 [submodule "Copilot"]
-	path = Copilot
+	path = haskell/Copilot
 	url = https://github.com/GaloisInc/Copilot
 [submodule "tomsfastmath"]
-	path = tomsfastmath
+	path = c/tomsfastmath
 	url = https://github.com/libtom/tomsfastmath.git
 [submodule "libtomcrypt"]
-	path = libtomcrypt
+	path = c/libtomcrypt
 	url = https://github.com/libtom/libtomcrypt.git
 [submodule "libtommath"]
-	path = libtommath
+	path = c/libtommath
 	url = https://github.com/libtom/libtommath.git
 [submodule "InertialNav"]
-	path = InertialNav
+	path = obj-c/InertialNav
 	url = https://github.com/priseborough/InertialNav.git
 [submodule "clearpath-serial"]
-	path = clearpath-serial
+	path = cpp/clearpath-serial
 	url = https://github.com/clearpathrobotics/serial.git
 [submodule "nasa-eefs"]
-	path = nasa-eefs
+	path = c/nasa-eefs
 	url = https://github.com/nasa/eefs.git
 [submodule "libemb"]
-	path = libemb
+	path = c/libemb
 	url = https://github.com/wendlers/libemb.git
 [submodule "linux-i2c"]
 	path = linux-i2c
 	url = https://github.com/jwr/lsquaredc.git
 [submodule "linux-i2c-lsqaredc"]
-	path = linux-i2c-lsqaredc
+	path = c/linux-i2c-lsqaredc
 	url = https://github.com/jwr/lsquaredc.git
 [submodule "atom"]
-	path = atom
+	path = haskell/atom
 	url = https://github.com/tomahawkins/atom.git
 [submodule "improve"]
-	path = improve
+	path = haskell/improve
 	url = https://github.com/tomahawkins/improve.git
 [submodule "ecu"]
-	path = ecu
+	path = haskell/ecu
 	url = https://github.com/tomahawkins/ecu.git
 [submodule "minlibc"]
-	path = minlibc
+	path = c/minlibc
 	url = https://github.com/GaloisInc/minlibc.git
 [submodule "ivory-rtverification"]
-	path = ivory-rtverification
+	path = haskell/ivory-rtverification
 	url = https://github.com/GaloisInc/ivory-rtverification.git
 [submodule "zeromq4-x"]
 	path = zeromq4-x
@@ -74,5 +74,5 @@
 	path = zeromq/zeromq-haskell
 	url = https://github.com/twittner/zeromq-haskell.git
 [submodule "atmosphere"]
-	path = atmosphere
+	path = haskell/atmosphere
 	url = https://github.com/ghorn/atmosphere
